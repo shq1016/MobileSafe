@@ -1,0 +1,7 @@
+#Mon Nov 13 18:25:47 CST 2017
+base.0=D\:\\ASM\\MobileSafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8bd7ab29d0bccca410c2d1c06717e255df2bb2dc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\ASM\\MobileSafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6baf8d88c5c8ae30f398a2d79289395d1e7f3e6\\classes.dex
+base.1=D\:\\ASM\\MobileSafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6baf8d88c5c8ae30f398a2d79289395d1e7f3e6
+file.0=D\:\\ASM\\MobileSafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8bd7ab29d0bccca410c2d1c06717e255df2bb2dc\\classes.dex
